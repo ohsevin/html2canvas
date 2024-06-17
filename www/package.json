@@ -5,15 +5,15 @@
   "private": true,
   "author": "Niklas von Hertzen",
   "dependencies": {
-    "gatsby": "^1.9.127",
+    "gatsby": "^4.25.7",
     "gatsby-link": "^1.6.30",
     "gatsby-plugin-catch-links": "^1.0.13",
     "gatsby-plugin-glamor": "^1.6.9",
     "gatsby-plugin-react-helmet": "^1.0.8",
     "gatsby-plugin-typography": "^1.7.10",
     "gatsby-remark-prismjs": "^1.2.10",
-    "gatsby-source-filesystem": "^1.5.9",
-    "gatsby-transformer-remark": "^1.7.23",
+    "gatsby-source-filesystem": "^5.13.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "typography": "^0.16.6",
     "typography-theme-github": "^0.15.10"
   },
